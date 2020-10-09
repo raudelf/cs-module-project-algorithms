@@ -12,7 +12,6 @@ def product_of_all_other_numbers(arr):
 
     # Create a for loop:
     for n in arr:
-        #     if index is equal to 0
         total *= n
 
     for n in arr:
